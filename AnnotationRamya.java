@@ -19,7 +19,7 @@ public class AnnotationRamya {
 		 @Test  
 		 public void testcase2()  
 		 {  
-		     System.out.println("C++");  
+		     System.out.println("Ramya");
 		 }  
 		 @Test  
 		 public void testcase3()  
